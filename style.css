@@ -1,17 +1,15 @@
 body {
-    background: linear-gradient(135deg, #a8e063, #f6d365);
-    height: 100vh;
     margin: 0;
+    font-family: 'Playfair Display', serif;
+    background: linear-gradient(to bottom, red, pink);
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
+    height: 100vh;
+    text-align: center;
 }
 
-body {
-  display: flex;
-  justify-content: center;
-  margin: 0;
-}
 .main-container {
   width: 100%;
   max-width: 1200px;
