@@ -1,0 +1,56 @@
+body {
+    background: linear-gradient(135deg, #a8e063, #f6d365);
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+}
+.main-container {
+  width: 100%;
+  max-width: 1200px;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 50px;
+    color: gold;
+    text-align: center;
+}
+
+.quote {
+    font-style: italic;
+    color: black;
+    text-align: center;
+}
+
+.credit {
+    font-size: 0.9rem;
+    color: lightgray;
+    text-align: center;
+}
+
+.credit span {
+    color: #FF7F50;
+}
+
+img {
+    border: 5px solid #fff;
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.3);
+    border-radius: 8px;
+}
+
+
+ 
+
+
+
+
+
+
