@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: 'Playfair Display', serif;
-    background: linear-gradient(to bottom, red, pink);
+    background: linear-gradient(to bottom, green, yellow);
     display: flex;
     flex-direction: column;
     justify-content: center;
